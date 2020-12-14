@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+
+    <style name="AlertDialogCustom" >
+
+        <item name="android:textColor">#fff</item>
+        <item name="android:windowBackground">@color/bottom_background_color</item>
+        <item name="android:background">@color/bottom_background_color</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+
+</resources>
